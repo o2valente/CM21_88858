@@ -12,5 +12,8 @@
     <string name="zero">0</string>
     <string name="asterisc">*</string>
     <string name="hashtag">#</string>
+    <string name="memory1">Memory 1</string>
+    <string name="memory2">Memory 2</string>
+    <string name="memory3">Memory 3</string>
 
 </resources>
