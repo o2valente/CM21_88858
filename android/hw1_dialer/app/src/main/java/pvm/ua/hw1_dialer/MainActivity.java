@@ -9,6 +9,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageButton;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
@@ -30,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     Button btnHashtag;
 
     EditText numberEt;
-    Button btnDial;
+    ImageButton btnDial;
     Button btnDelete;
 
     Button btnMem1;
@@ -96,7 +97,7 @@ public class MainActivity extends AppCompatActivity {
         btnDelete.setOnClickListener(v -> numberEt.setText(""));
 
         btnDial.setOnClickListener(v -> {
-            if(numberEt.getText().length() < 9){
+            if(numberEt.getText().length() < 1){
                 Toast.makeText(v.getContext(), "Invalid Number", Toast.LENGTH_SHORT).show();
             }else{
                 Intent intent = new Intent(Intent.ACTION_DIAL);

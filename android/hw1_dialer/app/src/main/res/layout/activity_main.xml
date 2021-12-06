@@ -22,20 +22,35 @@
                 android:id="@+id/memory1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:backgroundTint="@color/teal_700"
+                android:layout_marginLeft="10dp"
                 android:layout_weight="1"
                 android:text="@string/memory1" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1" />
 
             <Button
                 android:id="@+id/memory2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:backgroundTint="@color/teal_700"
                 android:layout_weight="1"
                 android:text="@string/memory2" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1" />
 
             <Button
                 android:id="@+id/memory3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:backgroundTint="@color/teal_700"
+                android:layout_marginRight="10dp"
                 android:layout_weight="1"
                 android:text="@string/memory3" />
 
@@ -45,19 +60,28 @@
             android:id="@+id/numberText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
             android:orientation="horizontal">
 
             <EditText
                 android:id="@+id/numberEt"
                 android:layout_width="257dp"
                 android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
                 android:hint="Enter Number"
                 android:inputType="phone" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1" />
 
             <Button
                 android:id="@+id/buttonDelete"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:backgroundTint="@color/firebrick"
+                android:layout_marginRight="10dp"
                 android:layout_weight="1"
                 android:text="X" />
 
@@ -73,22 +97,37 @@
                 android:id="@+id/buttonOne"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:backgroundTint="@color/silver"
+                android:layout_marginLeft="10dp"
                 android:layout_weight="1"
                 android:text="@string/one"
                 android:textSize="30sp" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1" />
 
             <Button
                 android:id="@+id/buttonTwo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:backgroundTint="@color/silver"
                 android:layout_weight="1"
                 android:text="@string/two"
                 android:textSize="30sp" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1" />
 
             <Button
                 android:id="@+id/buttonThree"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:backgroundTint="@color/silver"
+                android:layout_marginRight="10dp"
                 android:layout_weight="1"
                 android:text="@string/three"
                 android:textSize="30sp" />
@@ -105,22 +144,37 @@
                 android:id="@+id/buttonFour"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:backgroundTint="@color/silver"
+                android:layout_marginLeft="10dp"
                 android:layout_weight="1"
                 android:text="@string/four"
                 android:textSize="30sp" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1" />
 
             <Button
                 android:id="@+id/buttonFive"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:backgroundTint="@color/silver"
                 android:layout_weight="1"
                 android:text="@string/five"
                 android:textSize="30sp" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1" />
 
             <Button
                 android:id="@+id/buttonSix"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:backgroundTint="@color/silver"
+                android:layout_marginRight="10dp"
                 android:layout_weight="1"
                 android:text="@string/six"
                 android:textSize="30sp" />
@@ -137,22 +191,37 @@
                 android:id="@+id/buttonSeven"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:backgroundTint="@color/silver"
+                android:layout_marginLeft="10dp"
                 android:layout_weight="1"
                 android:text="@string/seven"
                 android:textSize="30sp" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1" />
 
             <Button
                 android:id="@+id/buttonEight"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:backgroundTint="@color/silver"
                 android:layout_weight="1"
                 android:text="@string/eight"
                 android:textSize="30sp" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1" />
 
             <Button
                 android:id="@+id/buttonNine"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:backgroundTint="@color/silver"
+                android:layout_marginRight="10dp"
                 android:layout_weight="1"
                 android:text="@string/nine"
                 android:textSize="30sp" />
@@ -169,22 +238,37 @@
                 android:id="@+id/buttonAsterisc"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:backgroundTint="@color/silver"
+                android:layout_marginLeft="10dp"
                 android:layout_weight="1"
                 android:text="@string/asterisc"
                 android:textSize="30sp" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1" />
 
             <Button
                 android:id="@+id/buttonZero"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:backgroundTint="@color/silver"
                 android:layout_weight="1"
                 android:text="@string/zero"
                 android:textSize="30sp" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1" />
 
             <Button
                 android:id="@+id/buttonHastag"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:backgroundTint="@color/silver"
+                android:layout_marginRight="10dp"
                 android:layout_weight="1"
                 android:text="@string/hashtag"
                 android:textSize="30sp" />
@@ -197,12 +281,16 @@
             android:layout_gravity="center"
             android:orientation="horizontal">
 
-            <Button
+            <ImageButton
                 android:id="@+id/dialButton"
-                style="@style/Widget.MaterialComponents.Button"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="Dial" />
+                android:background = "@drawable/roundedbutton"
+                android:layout_height="43dp"
+                android:layout_marginLeft="130dp"
+                android:layout_marginRight="130dp"
+                android:layout_marginBottom="20dp"
+                android:layout_marginTop="25dp"
+                android:src="@drawable/ic_baseline_local_phone_24" />
         </LinearLayout>
 
     </LinearLayout>
