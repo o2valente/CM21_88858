@@ -101,13 +101,12 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(v.getContext(), "Invalid Number", Toast.LENGTH_SHORT).show();
             }else{
                 Intent intent = new Intent(Intent.ACTION_DIAL);
-
                 //in order to properly parse hashtag it has to be replaced with %23
                 String hash = numberEt.getText().toString();
                 if(hash.contains("#")){
-                    hash.replace("#", "%23");
+                    hash = hash.replace("#", "%23");
                 }
-                intent.setData(Uri.parse("tel: " + hash));
+                intent.setData(Uri.parse("tel:" + hash));
                 startActivity(intent);
             }
         });
