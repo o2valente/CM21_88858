@@ -3159,7 +3159,7 @@
     <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="chip_text">Chip text</string>
-    <string name="city_detail">City Detail</string>
+    <string name="city_detail">Citys Detail</string>
     <string name="clear_text_end_icon_content_description">Clear text</string>
     <string name="error_icon_content_description">Error</string>
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>

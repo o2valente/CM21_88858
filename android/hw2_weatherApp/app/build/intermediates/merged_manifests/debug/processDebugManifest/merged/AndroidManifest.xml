@@ -46,7 +46,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.android.songdetail.SongDetailActivity"
+            android:name="com.example.android.songdetail.CityDetailActivity"
             android:label="@string/city_detail"
             android:parentActivityName="com.example.android.songdetail.MainActivity"
             android:theme="@style/AppTheme.NoActionBar" >

@@ -1,19 +1,19 @@
 [
     {
-        "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
-        "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\900cf11b5609aaee6af9c575e5b3c37b\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
-    },
-    {
         "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\900cf11b5609aaee6af9c575e5b3c37b\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_cascading_menu_item_layout.xml.flat",
-        "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\900cf11b5609aaee6af9c575e5b3c37b\\res\\layout\\abc_cascading_menu_item_layout.xml"
+        "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\900cf11b5609aaee6af9c575e5b3c37b\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\900cf11b5609aaee6af9c575e5b3c37b\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_cascading_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\900cf11b5609aaee6af9c575e5b3c37b\\res\\layout\\abc_cascading_menu_item_layout.xml"
     },
     {
         "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_fragment_fade_exit.xml.flat",
@@ -92,12 +92,12 @@
         "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0-rc01.aar\\9fa5536054c908b94494db0787935a51\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_indicator_text_color.xml.flat",
-        "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.1.0.aar\\dda3875d4c71b135052612c0bfa2830d\\res\\color\\mtrl_indicator_text_color.xml"
-    },
-    {
         "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_indicator_text_color.xml.flat",
+        "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.1.0.aar\\dda3875d4c71b135052612c0bfa2830d\\res\\color\\mtrl_indicator_text_color.xml"
     },
     {
         "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_fragment_open_exit.xml.flat",
@@ -108,44 +108,44 @@
         "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.1.0.aar\\dda3875d4c71b135052612c0bfa2830d\\res\\layout\\mtrl_alert_select_dialog_item.xml"
     },
     {
-        "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_text_cursor_material.xml.flat",
-        "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\900cf11b5609aaee6af9c575e5b3c37b\\res\\drawable\\abc_text_cursor_material.xml"
-    },
-    {
         "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
         "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\900cf11b5609aaee6af9c575e5b3c37b\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
-        "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\900cf11b5609aaee6af9c575e5b3c37b\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+        "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_text_cursor_material.xml.flat",
+        "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\900cf11b5609aaee6af9c575e5b3c37b\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
         "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\900cf11b5609aaee6af9c575e5b3c37b\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
-        "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\900cf11b5609aaee6af9c575e5b3c37b\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\900cf11b5609aaee6af9c575e5b3c37b\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\900cf11b5609aaee6af9c575e5b3c37b\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\900cf11b5609aaee6af9c575e5b3c37b\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\900cf11b5609aaee6af9c575e5b3c37b\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\900cf11b5609aaee6af9c575e5b3c37b\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
         "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\900cf11b5609aaee6af9c575e5b3c37b\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_song_detail.xml.flat",
-        "source": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\src\\main\\res\\layout\\activity_song_detail.xml"
-    },
-    {
         "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\color_design_error.xml.flat",
         "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.1.0.aar\\dda3875d4c71b135052612c0bfa2830d\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_song_detail.xml.flat",
+        "source": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\src\\main\\res\\layout\\activity_song_detail.xml"
     },
     {
         "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -156,12 +156,12 @@
         "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\900cf11b5609aaee6af9c575e5b3c37b\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml.flat",
-        "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\900cf11b5609aaee6af9c575e5b3c37b\\res\\interpolator\\btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
-    },
-    {
         "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_extended_fab_change_size_motion_spec.xml.flat",
         "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.1.0.aar\\dda3875d4c71b135052612c0bfa2830d\\res\\animator\\mtrl_extended_fab_change_size_motion_spec.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml.flat",
+        "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\900cf11b5609aaee6af9c575e5b3c37b\\res\\interpolator\\btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
     },
     {
         "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -224,12 +224,12 @@
         "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.1.0.aar\\dda3875d4c71b135052612c0bfa2830d\\res\\layout\\mtrl_picker_header_fullscreen.xml"
     },
     {
-        "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_choice_chip_ripple_color.xml.flat",
-        "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.1.0.aar\\dda3875d4c71b135052612c0bfa2830d\\res\\color\\mtrl_choice_chip_ripple_color.xml"
-    },
-    {
         "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\900cf11b5609aaee6af9c575e5b3c37b\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_choice_chip_ripple_color.xml.flat",
+        "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.1.0.aar\\dda3875d4c71b135052612c0bfa2830d\\res\\color\\mtrl_choice_chip_ripple_color.xml"
     },
     {
         "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -2206,6 +2206,10 @@
     {
         "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
         "source": "C:\\Users\\pmate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\900cf11b5609aaee6af9c575e5b3c37b\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_city_list.xml.flat",
+        "source": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\src\\main\\res\\layout-land\\city_list.xml"
     },
     {
         "merged": "C:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",

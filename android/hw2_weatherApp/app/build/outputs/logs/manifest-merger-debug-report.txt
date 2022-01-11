@@ -109,7 +109,7 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:37:17-77
 	android:name
 		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:37:27-74
-activity#com.example.android.songdetail.SongDetailActivity
+activity#com.example.android.songdetail.CityDetailActivity
 ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:40:9-48:20
 	android:parentActivityName
 		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:43:13-85
