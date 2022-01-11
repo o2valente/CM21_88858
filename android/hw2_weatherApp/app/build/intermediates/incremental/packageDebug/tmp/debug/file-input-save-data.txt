@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Jan 11 00:38:35 GMT 2022
+0.base=C\:\\Users\\pmate\\OneDrive\\Ambiente de Trabalho\\CM21_88858\\android\\hw2_weatherApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX

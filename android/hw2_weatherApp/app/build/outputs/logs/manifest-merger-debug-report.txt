@@ -1,0 +1,225 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:18:1-51:12
+INJECTED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:18:1-51:12
+INJECTED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:18:1-51:12
+INJECTED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:18:1-51:12
+MERGED from [androidx.navigation:navigation-ui:2.2.2] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\navigation-ui-2.2.2.aar\bef79199fb5251dadc4c79c5f52ad6b4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\material-1.1.0.aar\dda3875d4c71b135052612c0bfa2830d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\900cf11b5609aaee6af9c575e5b3c37b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-rc01.aar\72f01f5132d462d599ea1ea76e02f030\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\navigation-fragment-2.2.2.aar\a80d2f98ba8c6bf1dfc8466f9079cf21\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\viewpager2-1.0.0.aar\4f657b3ee1e19110740fff2843494604\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\fragment-1.2.4.aar\08a08457403a7308d20cdd5c4e77f83a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0.aar\bcabcca7f84669ce99abc433fd1a2817\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\b7e389d82f8d03830537ea54963555b7\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\4d3a3777b58038a8b4a6421c93a9e679\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\73303e7c89fab99f78e7cc91e5935b2b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\e0667f1901fa75ecb5fadcc7b2c42185\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\media-1.0.0-rc01.aar\9fa5536054c908b94494db0787935a51\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0.aar\1480664f9c42a37a8cb580dbf9719797\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\transition-1.2.0.aar\41531c803dab850b0f06ecfb5f259a1e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\b5c21276b6fc38fd96b40c650ac4dee6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\0e9f1da94bee8ad46e4e511807744d40\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\10bfdef218c265fdaa616c7f4b8ae0b9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\b69df9ae626870fa85726cc851fb0087\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\1f119843dda2f69b1cf327a136ecc06d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\cad7e2766df9f23fffe7bde49ef5d57c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\1a46493c5bd96e0e3cfd3c33d98328a2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\navigation-runtime-2.2.2.aar\9441ef572cada93310af88342119e20e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\activity-1.1.0.aar\d06bb26bdee5c25bf402cee0e682e33e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.2.2] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\navigation-common-2.2.2.aar\555987a2e04aeba483debc05ef1d3a72\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\7f269684e9951e06205142e57182f8d3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\57124aa4e1e48a6f82bfc80635dd5581\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\d20b88c3bc176c4dc86f97d2ff2cf2e6\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\8664ab8a05a47ad61cda9305d334e87f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\469855cbbb2df769396a6675d6e47e23\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\b391dfae2e91baaa56a9c15a6749cd6e\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-savedstate-2.2.0.aar\6931588b7ef1a23873872d3ab688b207\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.2.0.aar\e40214bef69602f7864352f05ab62240\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\3fc6e52ee3c4fd250e1bca6d9b50e072\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\7a593b9a05a216172f4d73a52fed9288\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\9d01b6f1d1aabb823e8b1c67ace995cc\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\9f91524e4718b3628e40f7b1eca0458d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.2.0.aar\126b92df13eadebbcc601de2231506ae\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\core-runtime-2.1.0.aar\90c54069e95df58dcc155d57e96f8882\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\d53e6db4f44402f04f0ae0f716ad55a6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\1b8ba4008312fd860da695d332046b18\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\92b5e89ed7188b7414fd528021536c33\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:18:1-51:12
+INJECTED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:18:1-51:12
+INJECTED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:18:1-51:12
+	package
+		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:19:5-45
+		INJECTED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:18:1-51:12
+		INJECTED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:18:1-51:12
+		INJECTED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:21:22-64
+application
+ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:23:5-49:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\material-1.1.0.aar\dda3875d4c71b135052612c0bfa2830d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\material-1.1.0.aar\dda3875d4c71b135052612c0bfa2830d\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\b7e389d82f8d03830537ea54963555b7\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\b7e389d82f8d03830537ea54963555b7\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\d20b88c3bc176c4dc86f97d2ff2cf2e6\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\d20b88c3bc176c4dc86f97d2ff2cf2e6\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\b391dfae2e91baaa56a9c15a6749cd6e\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\b391dfae2e91baaa56a9c15a6749cd6e\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\d20b88c3bc176c4dc86f97d2ff2cf2e6\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:26:9-41
+	android:roundIcon
+		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:27:9-54
+	android:icon
+		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:29:9-40
+activity#com.example.android.songdetail.MainActivity
+ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:30:9-39:20
+	android:label
+		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:32:13-45
+	android:theme
+		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:31:13-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:37:27-74
+activity#com.example.android.songdetail.SongDetailActivity
+ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:40:9-48:20
+	android:parentActivityName
+		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:43:13-85
+	android:label
+		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:42:13-48
+	android:theme
+		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:44:13-56
+	android:name
+		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:41:13-77
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:45:13-47:79
+	android:value
+		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:47:17-76
+	android:name
+		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml:46:17-63
+uses-sdk
+INJECTED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui:2.2.2] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\navigation-ui-2.2.2.aar\bef79199fb5251dadc4c79c5f52ad6b4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.2] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\navigation-ui-2.2.2.aar\bef79199fb5251dadc4c79c5f52ad6b4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\material-1.1.0.aar\dda3875d4c71b135052612c0bfa2830d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\material-1.1.0.aar\dda3875d4c71b135052612c0bfa2830d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\900cf11b5609aaee6af9c575e5b3c37b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\900cf11b5609aaee6af9c575e5b3c37b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-rc01.aar\72f01f5132d462d599ea1ea76e02f030\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-rc01.aar\72f01f5132d462d599ea1ea76e02f030\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\navigation-fragment-2.2.2.aar\a80d2f98ba8c6bf1dfc8466f9079cf21\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\navigation-fragment-2.2.2.aar\a80d2f98ba8c6bf1dfc8466f9079cf21\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\viewpager2-1.0.0.aar\4f657b3ee1e19110740fff2843494604\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\viewpager2-1.0.0.aar\4f657b3ee1e19110740fff2843494604\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\fragment-1.2.4.aar\08a08457403a7308d20cdd5c4e77f83a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\fragment-1.2.4.aar\08a08457403a7308d20cdd5c4e77f83a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0.aar\bcabcca7f84669ce99abc433fd1a2817\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0.aar\bcabcca7f84669ce99abc433fd1a2817\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\b7e389d82f8d03830537ea54963555b7\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\b7e389d82f8d03830537ea54963555b7\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\4d3a3777b58038a8b4a6421c93a9e679\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\4d3a3777b58038a8b4a6421c93a9e679\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\73303e7c89fab99f78e7cc91e5935b2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\73303e7c89fab99f78e7cc91e5935b2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\e0667f1901fa75ecb5fadcc7b2c42185\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\e0667f1901fa75ecb5fadcc7b2c42185\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\media-1.0.0-rc01.aar\9fa5536054c908b94494db0787935a51\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\media-1.0.0-rc01.aar\9fa5536054c908b94494db0787935a51\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0.aar\1480664f9c42a37a8cb580dbf9719797\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0.aar\1480664f9c42a37a8cb580dbf9719797\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\transition-1.2.0.aar\41531c803dab850b0f06ecfb5f259a1e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\transition-1.2.0.aar\41531c803dab850b0f06ecfb5f259a1e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\b5c21276b6fc38fd96b40c650ac4dee6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\b5c21276b6fc38fd96b40c650ac4dee6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\0e9f1da94bee8ad46e4e511807744d40\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\0e9f1da94bee8ad46e4e511807744d40\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\10bfdef218c265fdaa616c7f4b8ae0b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\10bfdef218c265fdaa616c7f4b8ae0b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\b69df9ae626870fa85726cc851fb0087\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\b69df9ae626870fa85726cc851fb0087\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\1f119843dda2f69b1cf327a136ecc06d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\1f119843dda2f69b1cf327a136ecc06d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\cad7e2766df9f23fffe7bde49ef5d57c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\cad7e2766df9f23fffe7bde49ef5d57c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\1a46493c5bd96e0e3cfd3c33d98328a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\1a46493c5bd96e0e3cfd3c33d98328a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\navigation-runtime-2.2.2.aar\9441ef572cada93310af88342119e20e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\navigation-runtime-2.2.2.aar\9441ef572cada93310af88342119e20e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\activity-1.1.0.aar\d06bb26bdee5c25bf402cee0e682e33e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\activity-1.1.0.aar\d06bb26bdee5c25bf402cee0e682e33e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.2] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\navigation-common-2.2.2.aar\555987a2e04aeba483debc05ef1d3a72\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.2] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\navigation-common-2.2.2.aar\555987a2e04aeba483debc05ef1d3a72\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\7f269684e9951e06205142e57182f8d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\7f269684e9951e06205142e57182f8d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\57124aa4e1e48a6f82bfc80635dd5581\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\57124aa4e1e48a6f82bfc80635dd5581\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\d20b88c3bc176c4dc86f97d2ff2cf2e6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\d20b88c3bc176c4dc86f97d2ff2cf2e6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\8664ab8a05a47ad61cda9305d334e87f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\8664ab8a05a47ad61cda9305d334e87f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\469855cbbb2df769396a6675d6e47e23\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\469855cbbb2df769396a6675d6e47e23\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\b391dfae2e91baaa56a9c15a6749cd6e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\b391dfae2e91baaa56a9c15a6749cd6e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-savedstate-2.2.0.aar\6931588b7ef1a23873872d3ab688b207\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-savedstate-2.2.0.aar\6931588b7ef1a23873872d3ab688b207\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.2.0.aar\e40214bef69602f7864352f05ab62240\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.2.0.aar\e40214bef69602f7864352f05ab62240\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\3fc6e52ee3c4fd250e1bca6d9b50e072\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\3fc6e52ee3c4fd250e1bca6d9b50e072\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\7a593b9a05a216172f4d73a52fed9288\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\7a593b9a05a216172f4d73a52fed9288\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\9d01b6f1d1aabb823e8b1c67ace995cc\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\9d01b6f1d1aabb823e8b1c67ace995cc\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\9f91524e4718b3628e40f7b1eca0458d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\9f91524e4718b3628e40f7b1eca0458d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.2.0.aar\126b92df13eadebbcc601de2231506ae\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.2.0.aar\126b92df13eadebbcc601de2231506ae\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\core-runtime-2.1.0.aar\90c54069e95df58dcc155d57e96f8882\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\core-runtime-2.1.0.aar\90c54069e95df58dcc155d57e96f8882\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\d53e6db4f44402f04f0ae0f716ad55a6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\d53e6db4f44402f04f0ae0f716ad55a6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\1b8ba4008312fd860da695d332046b18\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\1b8ba4008312fd860da695d332046b18\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\92b5e89ed7188b7414fd528021536c33\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\pmate\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\92b5e89ed7188b7414fd528021536c33\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pmate\OneDrive\Ambiente de Trabalho\CM21_88858\android\hw2_weatherApp\app\src\main\AndroidManifest.xml
